@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SearchPhoneTest</string>
+    <string name="title">手机号码查询</string>
+    <string name="phone_query">请输入您要查询的手机号</string>
+    <string name="query_text">查询</string>
+    <string name="query_result">查询结果</string>
+    <string name="phone_text">手机号：***</string>
+    <string name="province_text">省份：***</string>
+    <string name="type_text">运营商：***</string>
+    <string name="carrier_text">归属地运营商：***</string>
+</resources>
